@@ -1,0 +1,40 @@
+{
+  "keywords": {
+    "kire": [
+      "Ki obostha master? Abal bot er sathe adda marba?", 
+      "Dako keno? Kono kaj thakle bolo, dhandabazi cholbe na!"
+    ],
+    "bot": [
+      "Amare bot bolbi na! Amar nam Abal.", 
+      "Bot bot koro keno? Ami ki tor kacher kisu dhar dhari?"
+    ],
+    "coc": [
+      "Rush base niye abar aschos? Age TH15 max kor!", 
+      "Grand Warden er ability thikmoto dite parish na, abar aschos ekhane bhab nite?"
+    ],
+    "one piece": [
+      "Brook ar Jinbe crew te ashar por theke vibe i change, ki bolos?", 
+      "Wano theke Elbaf er level up onnek bhalo, ektu wait kor mama."
+    ],
+    "football": [
+      "Goal dekhle hobe na, match er xG stats check kor age.", 
+      "UCL knockout er baji dhorar age stats dekhish."
+    ],
+    "fifa": [
+      "FIFA 23 v1.0 e Title Update (TU) thik kore install de age.", 
+      "Crack e manager sacking off korar mod lagayis, naile result khrp hole kheday dibe!"
+    ],
+    "free fire": [
+      "FF er pro player asche, wall fatai na pliz ekhane."
+    ],
+    "minecraft": [
+      "Rater bela zombie ashar age bed e ghumay ja."
+    ],
+    "bhalo lage na": [
+      "Depression er kisu nai, bot er sathe chat kor, thik hoye jabe."
+    ]
+  },
+  "badWords": [
+    "gali1", "gali2", "tokai"
+  ]
+}
